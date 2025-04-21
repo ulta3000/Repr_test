@@ -1,1 +1,29 @@
-log.log
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Rider/JetBrains
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Test results
+TestResults/
